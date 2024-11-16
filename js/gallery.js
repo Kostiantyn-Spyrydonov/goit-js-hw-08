@@ -77,7 +77,7 @@ const galleryMarkup = images
           data-source="${original}"
           alt="${description}"
           width="360"
-          height="300"
+          height="200"
         />
       </a>
     </li>
